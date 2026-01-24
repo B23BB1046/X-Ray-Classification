@@ -23,7 +23,4 @@ The goal is to assist in **medical image analysis** by building an accurate and 
 - Train / Validation / Test split
 - Performance evaluation using accuracy and loss
 
----
-
-## 📂 Project Structure
 
